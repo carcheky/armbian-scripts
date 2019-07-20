@@ -1,5 +1,5 @@
 #!/bin/bash
-# bash -c "$(curl -fsSL https://raw.githubusercontent.com/carcheky/armbian-scripts/master/jellyfin.sh)"
+# bash -c "$(curl -fsSL https://raw.githubusercontent.com/carcheky/armbian-scripts/master/jellyfin-install.sh)"
 
 
 
